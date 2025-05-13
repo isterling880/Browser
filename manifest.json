@@ -1,0 +1,21 @@
+{
+  "name": "Advanced Browser",
+  "short_name": "BrowserApp",
+  "description": "An advanced web browser interface simulation.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#e9e9eb",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
